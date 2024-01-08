@@ -9,7 +9,6 @@ int main(void)
 	string input;
 	cin>>input;
 	
-	
 	int count = 1;
 	int actual = 1;
 	
@@ -31,8 +30,6 @@ int main(void)
 			count = 1;
 			i++;
 		}
-		
-		
 		
 	}
 
